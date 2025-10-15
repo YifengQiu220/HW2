@@ -9,6 +9,7 @@ pages = {
         st.Page("HWs/HW3.py", title="HW3 — Chatbox"),
         st.Page("HWs/HW4.py", title="HW4 — iSchool chatbot using RAG"),
         st.Page("HWs/HW5.py", title="HW5 — Enhenced chatbot"),
+        st.Page("HWs/HW7.py", title="HW7 — new info bot"),
     ],
 }
 
